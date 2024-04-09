@@ -21,7 +21,7 @@ Once you've created the Next.js project, you need to navigate to the newly creat
 
 ```bash
 cd hello-world
-
+```
 ## Running the Development Server
 
 To start the Next.js development server, follow these steps:
@@ -29,7 +29,7 @@ To start the Next.js development server, follow these steps:
 1. **Start the Development Server**: Run the following command in your terminal or command prompt:
 
    ```bash
-   npm run dev
+   npm run dev'''
 ## Accessing Your Application
 
 Once the development server is running, you can access your Next.js application by navigating to [http://localhost:3000](http://localhost:3000) in your web browser.
